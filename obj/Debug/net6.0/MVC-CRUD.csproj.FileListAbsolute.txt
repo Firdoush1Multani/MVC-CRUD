@@ -1,0 +1,66 @@
+D:\MVC-CRUD\bin\Debug\net6.0\appsettings.Development.json
+D:\MVC-CRUD\bin\Debug\net6.0\appsettings.json
+D:\MVC-CRUD\bin\Debug\net6.0\MVC-CRUD.staticwebassets.runtime.json
+D:\MVC-CRUD\bin\Debug\net6.0\MVC-CRUD.exe
+D:\MVC-CRUD\bin\Debug\net6.0\MVC-CRUD.deps.json
+D:\MVC-CRUD\bin\Debug\net6.0\MVC-CRUD.runtimeconfig.json
+D:\MVC-CRUD\bin\Debug\net6.0\MVC-CRUD.dll
+D:\MVC-CRUD\bin\Debug\net6.0\MVC-CRUD.pdb
+D:\MVC-CRUD\bin\Debug\net6.0\Npgsql.dll
+D:\MVC-CRUD\obj\Debug\net6.0\MVC-CRUD.csproj.AssemblyReference.cache
+D:\MVC-CRUD\obj\Debug\net6.0\MVC-CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC-CRUD\obj\Debug\net6.0\MVC-CRUD.AssemblyInfoInputs.cache
+D:\MVC-CRUD\obj\Debug\net6.0\MVC-CRUD.AssemblyInfo.cs
+D:\MVC-CRUD\obj\Debug\net6.0\MVC-CRUD.csproj.CoreCompileInputs.cache
+D:\MVC-CRUD\obj\Debug\net6.0\MVC-CRUD.MvcApplicationPartsAssemblyInfo.cache
+D:\MVC-CRUD\obj\Debug\net6.0\MVC-CRUD.RazorAssemblyInfo.cache
+D:\MVC-CRUD\obj\Debug\net6.0\MVC-CRUD.RazorAssemblyInfo.cs
+D:\MVC-CRUD\obj\Debug\net6.0\staticwebassets\msbuild.MVC-CRUD.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MVC-CRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.MVC-CRUD.props
+D:\MVC-CRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVC-CRUD.props
+D:\MVC-CRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVC-CRUD.props
+D:\MVC-CRUD\obj\Debug\net6.0\staticwebassets.pack.json
+D:\MVC-CRUD\obj\Debug\net6.0\staticwebassets.build.json
+D:\MVC-CRUD\obj\Debug\net6.0\staticwebassets.development.json
+D:\MVC-CRUD\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MVC-CRUD\obj\Debug\net6.0\scopedcss\bundle\MVC-CRUD.styles.css
+D:\MVC-CRUD\obj\Debug\net6.0\scopedcss\projectbundle\MVC-CRUD.bundle.scp.css
+D:\MVC-CRUD\obj\Debug\net6.0\MVC-CRUD.csproj.CopyComplete
+D:\MVC-CRUD\obj\Debug\net6.0\MVC-CRUD.dll
+D:\MVC-CRUD\obj\Debug\net6.0\refint\MVC-CRUD.dll
+D:\MVC-CRUD\obj\Debug\net6.0\MVC-CRUD.pdb
+D:\MVC-CRUD\obj\Debug\net6.0\MVC-CRUD.genruntimeconfig.cache
+D:\MVC-CRUD\obj\Debug\net6.0\ref\MVC-CRUD.dll
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\bin\Debug\net6.0\appsettings.json
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\bin\Debug\net6.0\MVC-CRUD.staticwebassets.runtime.json
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\bin\Debug\net6.0\MVC-CRUD.exe
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\bin\Debug\net6.0\MVC-CRUD.deps.json
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\bin\Debug\net6.0\MVC-CRUD.runtimeconfig.json
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\bin\Debug\net6.0\MVC-CRUD.dll
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\bin\Debug\net6.0\MVC-CRUD.pdb
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\obj\Debug\net6.0\MVC-CRUD.csproj.AssemblyReference.cache
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\obj\Debug\net6.0\MVC-CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\obj\Debug\net6.0\MVC-CRUD.AssemblyInfoInputs.cache
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\obj\Debug\net6.0\MVC-CRUD.AssemblyInfo.cs
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\obj\Debug\net6.0\MVC-CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\obj\Debug\net6.0\MVC-CRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\obj\Debug\net6.0\MVC-CRUD.RazorAssemblyInfo.cache
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\obj\Debug\net6.0\MVC-CRUD.RazorAssemblyInfo.cs
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\obj\Debug\net6.0\staticwebassets\msbuild.MVC-CRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.MVC-CRUD.props
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVC-CRUD.props
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVC-CRUD.props
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\obj\Debug\net6.0\scopedcss\bundle\MVC-CRUD.styles.css
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\obj\Debug\net6.0\scopedcss\projectbundle\MVC-CRUD.bundle.scp.css
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\obj\Debug\net6.0\MVC-CRUD.csproj.CopyComplete
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\obj\Debug\net6.0\MVC-CRUD.dll
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\obj\Debug\net6.0\refint\MVC-CRUD.dll
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\obj\Debug\net6.0\MVC-CRUD.pdb
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\obj\Debug\net6.0\MVC-CRUD.genruntimeconfig.cache
+C:\Users\Firdoush Multani\Desktop\MVC-CRUD\obj\Debug\net6.0\ref\MVC-CRUD.dll
